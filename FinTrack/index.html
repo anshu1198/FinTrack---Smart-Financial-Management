@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinTrack - Smart Financial Management</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="https://placehold.co/40x40/17c3b2/fff?text=FT" alt="Financial Tracker">
+                <span>FinTrack</span>
+            </div>
+            <div class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="budget.html" >Budget</a>
+                <a href="About.html">About Us</a>
+                <a href="Contact.html">Contact</a>
+            </div>
+            <div class="auth-buttons">
+                <button class="btn-secondary" onclick="location.href='signup.html'">Sign up</button>
+                <button class="btn-primary" onclick="location.href='signin.html'">Sign in</button>
+            </div>
+            <button class="mobile-menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Smart financial<br>management made easy</h1>
+                <p>Take control of your finances with our comprehensive tracking and analysis tools. Start your journey to financial freedom today.</p>
+                <div class="hero-buttons">
+                    <button class="btn-primary" onclick="location.href='signup.html'">Get Started Free</button>
+                    <button class="btn-secondary">Watch Demo <i class="fas fa-play-circle"></i></button>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-number">2M+</span>
+                        <span class="stat-label">Active Users</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">₹50B+</span>
+                        <span class="stat-label">Money Tracked</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">4.8/5</span>
+                        <span class="stat-label">User Rating</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="stats-card">
+                    <div class="card-header">
+                        <h3>Financial Overview</h3>
+                        <span class="date">March 2025</span>
+                    </div>
+                    <h2>₹189,334</h2>
+                    <p class="trend positive">↑ 12.4% from last month</p>
+                    <div class="accounts">
+                        <div class="account">
+                            <div class="account-info">
+                                <i class="fas fa-landmark"></i>
+                                <span>Assets</span>
+                            </div>
+                            <span class="amount positive">₹240,462</span>
+                        </div>
+                        <div class="account">
+                            <div class="account-info">
+                                <i class="fas fa-wallet"></i>
+                                <span>Cash</span>
+                            </div>
+                            <span class="amount">₹12,345</span>
+                        </div>
+                        <div class="account">
+                            <div class="account-info">
+                                <i class="fas fa-chart-line"></i>
+                                <span>Investments</span>
+                            </div>
+                            <span class="amount positive">₹15,367</span>
+                        </div>
+                        <div class="account">
+                            <div class="account-info">
+                                <i class="fas fa-home"></i>
+                                <span>Property</span>
+                            </div>
+                            <span class="amount">₹28,150</span>
+                        </div>
+                        <div class="account">
+                            <div class="account-info">
+                                <i class="fas fa-credit-card"></i>
+                                <span>Debt</span>
+                            </div>
+                            <span class="amount negative">₹35,308</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features">
+            <h2 class="section-title">Powerful Financial Tools</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-chart-pie"></i>
+                    </div>
+                    <h3>Expense Tracking</h3>
+                    <p>Automatically categorize and track your spending patterns</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-bullseye"></i>
+                    </div>
+                    <h3>Budget Goals</h3>
+                    <p>Set and track financial goals with smart recommendations</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-bell"></i>
+                    </div>
+                    <h3>Smart Alerts</h3>
+                    <p>Get notified about unusual spending and bill payments</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+              <div class="footer-section" style="text-align: center;">
+                    <h4>Connect</h4>
+                    <div class="social-links" style="display: flex; justify-content: center; gap: 10px;">
+                        <a href="https://www.facebook.com/share/15qC4HSJBn/" class="social-icon"><i class="fab fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/anshu-shah-b24275291" class="social-icon"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/anshu_1198?igsh=Z2Zja3poOHB4ZzJt" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                
+                    <div class="newsletter">
+                        <h4>Stay Updated</h4>
+                        <div class="newsletter-input">
+                            <input type="email" id="newsletterEmail" placeholder="Enter your email">
+                            <button class="btn-primary" id="subscribeButton">Subscribe</button>
+                        </div>
+                        <p id="subscriptionMessage" style="display: none; color: green; margin-top: 10px;"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 FinTrack. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="#terms">Terms</a>
+                <a href="#privacy">Privacy</a>
+                <a href="#cookies">Cookies</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
