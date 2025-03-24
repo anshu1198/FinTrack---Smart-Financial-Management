@@ -46,7 +46,32 @@ FinTrack is a web-based financial tracking application designed to help users ma
 - *JavaScript* - Functionality and dynamic interactions
 
 ## Screenshot
-- *ABOUT*
+- *HOME*
+  ![Home](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(331).png)
+  ![Home](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(332).png)
+
+- *BUDGET*
+  ![Budget](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(333).png)
+  ![Budget](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(334).png)
+
+  - *ABOUT*
+    ![About](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(335).png)
+    ![About](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(336).png)
+    ![About](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(337).png)
+    ![About](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(338).png)
+
+    - *CONTACT*
+      ![Contact](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(339).png)
+      ![Contact](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(340).png)
+      ![Contact](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(341).png)
+
+      - *SIGN UP*
+        ![Sign up](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(342).png)
+
+        - *SIGN IN*
+          ![Sign in](https://github.com/anshu1198/FinTrack---Smart-Financial-Management/blob/44303a7d0db64b48069d9cf3eac80892ed2fc8a3/FinTrack%20Images/Screenshot%20(343).png)
+
+      
   
   
 
@@ -63,5 +88,5 @@ This project is licensed under the *MIT License*.
 
 ## Author
 *Your Name*
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [anshu1198](https://github.com/anshu1198)
+- Email: anshushah2216@gmail.com
